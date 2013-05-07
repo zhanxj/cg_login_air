@@ -1,0 +1,3 @@
+regist_url@=http://www.baidu.com
+getpassword_url@=http://www.qq.com
+bbs_url@=http://www.sina.com.cn
